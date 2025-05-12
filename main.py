@@ -1,1 +1,1 @@
-def get_number(prompt):
+def calculate(a, b, op):
